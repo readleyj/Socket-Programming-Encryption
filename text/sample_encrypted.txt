@@ -1,0 +1,34 @@
+#ioeoueg <xnjuwd.i>
+#kqcmwge <tav/tzrhs.i>
+#kqcmwge <tav/sucw.h>
+#jpflvfh <fdpwl.i>
+#kqcmwge <tvgip.j>
+#lndnxdf <uwrjpj.h>
+#jpflvfh <sufoic.j>
+#lndnxdf <ydiu.j>
+
+lnu odio()
+{
+	ekas dxf;
+	jpw pjf = iosm();
+	lf(qkg > 0)
+	{
+		pskqtg("k'p pbtueov, srfuv eovhr uq wesolnbvh, cikod gf: %g\n", qkg);
+
+		rfcg(sufln_gkoeoq, &eug, ulzfqi(bvh));
+	}
+	hltg lf(qkg == 0)
+	{
+		pskqtg("k'p cikod, echmpplzjpj\n");
+		tgwsjf();
+		savuh();
+		pskqtg("k'p cikod, fzltjpj\n");
+	}
+	fnve
+	{
+		qgurpt("iosm");
+		hxjv(1);
+	}
+
+	ueuwun 0;
+}
